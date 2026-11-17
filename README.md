@@ -1,7 +1,7 @@
-# Project 67: ReCollab AI Research Automation — One-Click Paper Generation
+# Project 67: ReCollab AI Research Automation: One-Click Paper Generation
 
 **Category:** Research Tools
-**Part of:** AutoMatrixLab — 100+ AI and automation apps
+**Part of:** AutoMatrixLab
 
 ## Overview
 
@@ -9,13 +9,15 @@ An extension of the ReCollab platform enabling one-click research workflows: aut
 
 ## Tech Stack
 
-NVIDIA 4090, Multi-Agent LLM, Git, LaTeX, Collaboration
+NVIDIA RTX 4070 Super, Multi-Agent LLM, Git, LaTeX, Collaboration
 
 ## Demo
 
-📋 **Demo video coming soon** — placeholder image available on the project page.
+[![ReCollab AI Research Automation: One-Click Paper Generation](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-67-recollab-ai-research-automation-one-click-paper-generation.jpg)](https://automatrixlab.com/projects/project-67-recollab-ai-research-automation-one-click-paper-generation/)
 
-🌐 **See it on the site:** https://automatrixlab.com/#applications
+🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/67-narrated-20261111.mp4
+
+🌐 **See it on the site:** https://automatrixlab.com/projects/project-67-recollab-ai-research-automation-one-click-paper-generation/
 
 ## Access Full Source Code & Live Demo
 
@@ -25,7 +27,7 @@ This repository shows the project overview, tech stack, and demo link. For full 
 
 ## About AutoMatrixLab
 
-AutoMatrixLab is a research, education, and industry platform with over 100 AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open — by one senior lecturer and his students — with no institutional funding.
+AutoMatrixLab is a research, education, and industry platform of AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open.
 
 🌐 Website: https://automatrixlab.com
 📧 Contact: adnan.balloch@outlook.com
